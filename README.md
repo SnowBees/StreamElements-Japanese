@@ -1,5 +1,5 @@
 # StreamElements-Japanese
 StreamElements-日本語
 
-File location
+File location <br>
 obs-studio\data\obs-plugins\obs-browser\locale
